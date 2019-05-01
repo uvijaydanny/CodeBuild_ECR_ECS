@@ -1,0 +1,6 @@
+[
+    {
+        "name": "book",
+        "imageUri": "424125404785.dkr.ecr.us-east-2.amazonaws.com/book:spring-boot"
+    }
+]
